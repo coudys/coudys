@@ -11,7 +11,7 @@
 - 💬 Ask me about AI GEN, I am interested in it but not enough knwledge to actively develop in this field yet
 - 📫 How to reach me: ping me here perhaps ;)
 - ⚡ Fun fact: I am cool and I know it haha.
-Hobbies: Lightroom, Topaz Labs, Photography, data organising, 360 photos, java
+- ✨ Hobbies: Lightroom, Topaz Labs, Photography, data organising, 360 photos, java
 
 
 <div>
