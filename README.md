@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there folks👋
 
 
 **coudys/coudys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on few simple java android games to improve java, google api and google play knowledge.
 - 🌱 I’m currently learning at damago GmbH, many things actually, java, javascript, linux, MySQL...
