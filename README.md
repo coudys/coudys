@@ -6,12 +6,12 @@
 
 - 🔭 I’m currently working on few simple java android games to improve java, google api and google play knowledge.
 - 🌱 I’m currently learning at damago GmbH, many things actually, java, javascript, linux, MySQL...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with java in general
-- 💬 Ask me about AI GEN, I am interested in it but not enough knwledge to actively develop in this field yet
+- 👯 I’m looking to collaborate on any Android edevelopment, Java development or AI subjects
+- 🤔 I’m looking for help with java development in general
+- 💬 Ask me about AI GEN, I am interested in it but not enough knowledge just yet to actively develop in this field
 - 📫 How to reach me: ping me here perhaps ;)
 - ⚡ Fun fact: I am cool and I know it haha.
-- ✨ Hobbies: Lightroom, Topaz Labs, Photography, data organising, 360 photos, java
+- ✨ Hobbies: programming, Lightroom, 2D editing, Topaz Labs, Photography, data organising, 360 photos, java
 
 
 <div>
